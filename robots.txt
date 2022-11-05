@@ -1,0 +1,3 @@
+Https://goel-rohit.github.io/sitemap.xml
+User-agent:*
+Allow: /
